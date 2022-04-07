@@ -1,0 +1,1 @@
+LZW+RC4 e Test.txt lzwTest.txt.lzw qwerty123456

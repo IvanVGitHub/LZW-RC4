@@ -1,0 +1,1 @@
+LZW+RC4 d lzwTest.txt.lzw.rc4 lzwTest.txt.lzw lzwTest.txt qwerty123456

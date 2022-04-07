@@ -1,0 +1,1 @@
+LZW+RC4 d lzwVoyna_i_mir.doc.lzw.rc4 lzwVoyna_i_mir.doc.lzw lzwVoyna_i_mir.doc qwerty123456
